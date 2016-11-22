@@ -78,6 +78,10 @@ Gopypi has following features planned:
 
 ## Screenshots
 
+Here are some screenshots from gopypi admin
+
+![Dashboard](/docs/dashboard.png?raw=true "Dashboard")
+
 @TODO
 
 # Contributors
