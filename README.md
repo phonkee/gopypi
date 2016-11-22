@@ -76,6 +76,10 @@ Gopypi has following features planned:
 * email notifications about package changes
 * classifiers - create page in admin groupping packages by classifier
 
+## Upload package
+
+For instructions how to write `setup.py` you can find more information in admin interface `HOWTO`. 
+
 ## Screenshots
 
 Here are some screenshots from gopypi admin
@@ -94,8 +98,6 @@ Here are some screenshots from gopypi admin
 
 #### Admin download stats
 ![Download stats](/docs/dstats.png?raw=true "Download stats")
-
-@TODO
 
 # Contributors
 You are welcome!
