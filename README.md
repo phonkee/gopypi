@@ -81,6 +81,10 @@ Gopypi has following features planned:
 Here are some screenshots from gopypi admin
 
 ![Dashboard](/docs/dashboard.png?raw=true "Dashboard")
+![User list](/docs/users.png?raw=true "User list")
+![Add user](/docs/adduser.png?raw=true "Add user")
+![Package detail](/docs/packagedetail.png?raw=true "Package detail")
+![Download stats](/docs/dstats.png?raw=true "Download stats")
 
 @TODO
 
