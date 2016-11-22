@@ -6,8 +6,8 @@ Gopypi supports distutils/setuptools setup.py uploading of packages.
 And it does more thant this.
 Gopypi supports management of active users, maintainers of packages and lot more.
 
-**This project is in development phase and should not be used in production for now. I am working hard to 
-implement all features and bring alpha version in shor time.**
+**This project is under development and should not be used in production for now. I am working hard to 
+implement all features and bring alpha version in short time.**
 
 ## Features
 
