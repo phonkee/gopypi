@@ -47,7 +47,7 @@ Otherwise you can type
 After you have installed gopypi you need to create config file. You can use gopypi command `makeconfig` that helps
 you with generating new configuration interactively.
 
-    `./gopypi makeconfig`
+    ./gopypi makeconfig
 
 ### Database
 
@@ -58,17 +58,17 @@ Gopypi currently supports postgres, mysql databases. To correctly setup database
 
 Now it's time to run database migrations:
 
-    `./gopypi migrate --config gopypi.conf`
+    ./gopypi migrate --config gopypi.conf
     
 This will apply all database migrations automaticaly. For every new gopypi release migrate command is needed to be run.
 
 After you have applied all database migrations it's time to create new admin user, so you can access admin interface:
 
-    `./gopypi createadmin --config gopypi.conf`
+    ./gopypi createadmin --config gopypi.conf
 
 After you have succesfully created admin user you can now run server.
 
-    `./gopypi runserver --config gopypi.conf`
+    ./gopypi runserver --config gopypi.conf
 
 
 ## Future features
