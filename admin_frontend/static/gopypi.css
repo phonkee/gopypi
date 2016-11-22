@@ -1,0 +1,14 @@
+.footer {
+    height: 50px;
+    background-color: #f8f8f8;
+    text-align: center;
+    line-height: 20px;
+    padding-top: 10px
+}
+
+@media (min-width: 768px) {
+    .footer {
+        margin: 0 0 0 250px;
+        border-left: 1px solid #e7e7e7
+    }
+}

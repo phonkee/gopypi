@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>Gopypi simple Index</title>
+    </head>
+    <body>
+        <h1>Simple Index</h1>
+        {{range .Packages}}
+            <a href="{{reverse "package_detail" "slug" .Name}}">{{.Name}}</a><br>
+        {{end}}
+    </body>
+</html>

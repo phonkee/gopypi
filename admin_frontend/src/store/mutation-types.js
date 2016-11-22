@@ -1,0 +1,21 @@
+/**
+ * Created by phonkee on 19.10.16.
+ */
+
+export const LOGIN_SUCCESS = 'auth/LOGIN_SUCCESS'
+export const LOGIN_FAILURE = 'auth/LOGIN_FAILURE'
+export const RECEIVE_ME = 'auth/RECEIVE_ME'
+export const RECEIVE_USERS = 'auth/RECEIVE_USERS'
+export const RECEIVE_SINGLE_USER = 'auth/RECEIVE_SINGLE_USER'
+export const RECEIVE_INFO = 'info/RECEIVE'
+export const RECEIVE_PACKAGE_LIST = 'package/RECEIVE_LIST'
+export const RECEIVE_MY_PACKAGE_LIST = 'package/RECEIVE_MY_LIST'
+export const RECEIVE_SINGLE_PACKAGE = 'package/RECEIVE_DETAIL'
+export const RECEIVE_SERVER_STATS = 'stats/RECEIVE_SERVER'
+export const RECEIVE_ALL_DOWNLOAD_STATS = 'stats/RECEIVE_ALL_DOWNLOAD_STATS'
+export const RECEIVE_PACKAGE_DOWNLOAD_STATS = 'stats/RECEIVE_PACKAGE_DOWNLOAD_STATS'
+export const ADD_FLASH_MESSAGE = 'messages/ADD_FLASH_MESSAGE'
+export const HIDE_FLASH_MESSAGE = 'messages/HIDE_FLASH_MESSAGE'
+export const SPINNER_ADD_PENDING = 'spinner/SPINNER_ADD_PENDING'
+export const SPINNER_REMOVE_PENDING = 'spinner/SPINNER_REMOVE_PENDING'
+export const RECEIVE_LICENSES = 'license/RECEIVE_LICENSES'

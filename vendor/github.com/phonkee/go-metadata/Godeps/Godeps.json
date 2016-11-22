@@ -1,0 +1,54 @@
+{
+	"ImportPath": "github.com/phonkee/go-metadata",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gopherjs/gopherjs/js",
+			"Rev": "00f306e07eaaaab04ea5dba605cd0e1eff9c6fb7"
+		},
+		{
+			"ImportPath": "github.com/jtolds/gls",
+			"Comment": "v4.2.0",
+			"Rev": "8ddce2a84170772b95dd5d576c48d517b22cac63"
+		},
+		{
+			"ImportPath": "github.com/mgutz/ansi",
+			"Rev": "c286dcecd19ff979eeb73ea444e479b903f2cfcb"
+		},
+		{
+			"ImportPath": "github.com/phonkee/go-logger",
+			"Rev": "ecc050fc5280cbe3e28920d9422ac31db0510248"
+		},
+		{
+			"ImportPath": "github.com/smartystreets/assertions",
+			"Comment": "1.6.0-10-g2063fd1",
+			"Rev": "2063fd1cc7c975db70502811a34b06ad034ccdf2"
+		},
+		{
+			"ImportPath": "github.com/smartystreets/assertions/internal/go-render/render",
+			"Comment": "1.6.0-10-g2063fd1",
+			"Rev": "2063fd1cc7c975db70502811a34b06ad034ccdf2"
+		},
+		{
+			"ImportPath": "github.com/smartystreets/assertions/internal/oglematchers",
+			"Comment": "1.6.0-10-g2063fd1",
+			"Rev": "2063fd1cc7c975db70502811a34b06ad034ccdf2"
+		},
+		{
+			"ImportPath": "github.com/smartystreets/goconvey/convey",
+			"Comment": "1.6.2-8-g7befa7f",
+			"Rev": "7befa7fd6e2e8ca28d2b94f2d39111929904b08d"
+		},
+		{
+			"ImportPath": "github.com/smartystreets/goconvey/convey/gotest",
+			"Comment": "1.6.2-8-g7befa7f",
+			"Rev": "7befa7fd6e2e8ca28d2b94f2d39111929904b08d"
+		},
+		{
+			"ImportPath": "github.com/smartystreets/goconvey/convey/reporting",
+			"Comment": "1.6.2-8-g7befa7f",
+			"Rev": "7befa7fd6e2e8ca28d2b94f2d39111929904b08d"
+		}
+	]
+}

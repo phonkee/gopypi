@@ -1,0 +1,3 @@
+# paginator
+Paginator for golang
+

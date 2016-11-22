@@ -1,0 +1,41 @@
+package: bitbucket.org/phonkee/gopypi
+import:
+- package: github.com/arschles/go-bindata-html-template
+- package: github.com/asaskevich/govalidator
+  version: ~5.0.0
+- package: github.com/beevik/etree
+  version: ~0.0.0
+- package: github.com/blang/semver
+  version: ~3.3.0
+- package: github.com/dgrijalva/jwt-go
+  version: ~3.0.0
+- package: github.com/gorilla/mux
+  version: ~1.1.0
+- package: github.com/howeyc/gopass
+- package: github.com/jinzhu/gorm
+  version: ~1.0.0
+  subpackages:
+  - dialects/postgres
+  - dialects/sqlite
+  - dialects/mysql
+- package: github.com/justinas/alice
+  version: ~1.0.0
+- package: github.com/lib/pq
+- package: github.com/pelletier/go-toml
+  version: ~0.3.5
+- package: github.com/phonkee/go-classy
+- package: github.com/phonkee/go-metadata
+- package: github.com/phonkee/go-paginator
+- package: github.com/phonkee/go-response
+- package: github.com/phonkee/go-xmlrpc
+- package: github.com/uber-go/zap
+- package: github.com/urfave/cli
+  version: ~1.18.1
+- package: golang.org/x/crypto
+  subpackages:
+  - scrypt
+- package: gopkg.in/h2non/filetype.v0
+- package: github.com/fukata/golang-stats-api-handler
+  version: v1.0.0
+- package: github.com/elazarl/go-bindata-assetfs
+- package: github.com/gorilla/schema

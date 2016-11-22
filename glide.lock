@@ -1,0 +1,98 @@
+hash: eb6c6781178f979e7d8969268753185e45d7010b35a4a76b182262d42354e729
+updated: 2016-11-22T12:25:58.566043396+01:00
+imports:
+- name: github.com/arschles/go-bindata-html-template
+  version: 4ae2add2b2f4e490b61ce4e7fdfa622824318375
+- name: github.com/asaskevich/govalidator
+  version: 7b3beb6df3c42abd3509abfc3bcacc0fbfb7c877
+- name: github.com/beevik/etree
+  version: abae5fc32af8862e420d52e686a7e6ec14111685
+- name: github.com/blang/semver
+  version: 60ec3488bfea7cca02b021d106d9911120d25fe9
+- name: github.com/dgrijalva/jwt-go
+  version: d2709f9f1f31ebcda9651b03077758c1f3a0018c
+- name: github.com/elazarl/go-bindata-assetfs
+  version: 9a6736ed45b44bf3835afeebb3034b57ed329f3e
+- name: github.com/fatih/color
+  version: dea9d3a26a087187530244679c1cfb3a42937794
+- name: github.com/fukata/golang-stats-api-handler
+  version: 90f0b59102629831cc109845475a8d77043412ec
+- name: github.com/go-sql-driver/mysql
+  version: 665b83488b90b902ce0a305ef6652e599771cdf9
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: 0eeaf8392f5b04950925b8a69fe70f110fa7cbfc
+- name: github.com/gorilla/schema
+  version: 0164a00ab4cd01d814d8cd5bf63fd9fcea30e23b
+- name: github.com/howeyc/gopass
+  version: f5387c492211eb133053880d23dfae62aa14123d
+- name: github.com/jinzhu/gorm
+  version: 5174cc5c242a728b435ea2be8a2f7f998e15429b
+  subpackages:
+  - dialects/mysql
+  - dialects/postgres
+  - dialects/sqlite
+- name: github.com/jinzhu/inflection
+  version: 74387dc39a75e970e7a3ae6a3386b5bd2e5c5cff
+- name: github.com/justinas/alice
+  version: 052b8b6c18edb9db317af86806d8e00ebaa94160
+- name: github.com/lib/pq
+  version: d8eeeb8bae8896dd8e1b7e514ab0d396c4f12a1b
+  subpackages:
+  - hstore
+  - oid
+- name: github.com/mattn/go-colorable
+  version: 6c903ff4aa50920ca86087a280590b36b3152b9c
+- name: github.com/mattn/go-isatty
+  version: 66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8
+- name: github.com/mgutz/ansi
+  version: c286dcecd19ff979eeb73ea444e479b903f2cfcb
+- name: github.com/pelletier/go-buffruneio
+  version: df1e16fde7fc330a0ca68167c23bf7ed6ac31d6d
+- name: github.com/pelletier/go-toml
+  version: 64ff1ea4d585bc1fca65e6331eb8239f2ff31845
+- name: github.com/phonkee/go-classy
+  version: dbf6b07ca5f7734cf08a736ab0067b91214301ed
+- name: github.com/phonkee/go-logger
+  version: ecc050fc5280cbe3e28920d9422ac31db0510248
+- name: github.com/phonkee/go-metadata
+  version: 36d48bef6bd9b95739f01ca99fa0753352798821
+- name: github.com/phonkee/go-paginator
+  version: efdd1282df996b04ff32a7e11ede50345494118b
+- name: github.com/phonkee/go-response
+  version: 84dc6865a8ac7527de762e2953333497245cdae4
+- name: github.com/phonkee/go-signals
+  version: 80881816bf56130640f13fb1b2bebbd6db94ddff
+- name: github.com/phonkee/go-xmlrpc
+  version: 1a82ba6107bca4de3a9a9bc4795fdc84200fd123
+- name: github.com/serenize/snaker
+  version: 8824b61eca66d308fcb2d515287d3d7a28dba8d6
+- name: github.com/uber-go/atomic
+  version: 9e99152552a6ce13fa3b2ce4a9c4fb117cca4506
+- name: github.com/uber-go/zap
+  version: dd147206a25aad11c300c661617a2fe26b4a81a7
+- name: github.com/urfave/cli
+  version: a14d7d367bc02b1f57d88de97926727f2d936387
+- name: golang.org/x/crypto
+  version: 9477e0b78b9ac3d0b03822fd95422e2fe07627cd
+  subpackages:
+  - pbkdf2
+  - scrypt
+  - ssh/terminal
+- name: golang.org/x/sys
+  version: b699b7032584f0953262cb2788a0ca19bb494703
+  subpackages:
+  - unix
+- name: golang.org/x/tools
+  version: b814a3b030588c115189743d7da79bce8b549ce1
+  subpackages:
+  - go/ast/astutil
+  - go/buildutil
+  - go/loader
+- name: gopkg.in/h2non/filetype.v0
+  version: 23aa3722cb7b5cde2d0fc9221a04756e27d7ceed
+  subpackages:
+  - matchers
+  - types
+testImports: []

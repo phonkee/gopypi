@@ -1,0 +1,41 @@
+{
+	"ImportPath": "github.com/phonkee/go-xmlrpc",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/beevik/etree",
+			"Rev": "ce53c4ce608a92897d74ff8fd47b5a1131e5606c"
+		},
+		{
+			"ImportPath": "github.com/fatih/color",
+			"Comment": "v0.2.0-3-gdea9d3a",
+			"Rev": "dea9d3a26a087187530244679c1cfb3a42937794"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Comment": "v0.0.6-6-g6c903ff",
+			"Rev": "6c903ff4aa50920ca86087a280590b36b3152b9c"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Rev": "66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "9bb9f0998d48b31547d975974935ae9b48c7a03c"
+		},
+		{
+			"ImportPath": "golang.org/x/tools/go/ast/astutil",
+			"Rev": "b814a3b030588c115189743d7da79bce8b549ce1"
+		},
+		{
+			"ImportPath": "golang.org/x/tools/go/buildutil",
+			"Rev": "b814a3b030588c115189743d7da79bce8b549ce1"
+		},
+		{
+			"ImportPath": "golang.org/x/tools/go/loader",
+			"Rev": "b814a3b030588c115189743d7da79bce8b549ce1"
+		}
+	]
+}
