@@ -35,7 +35,12 @@ gopypi is single binary which has multiple subcommands, you can see them by typi
 
 ## Installation
 
-The easiest way is to download precompiled binaries from github repository releases. Otherwise you can type
+The easiest way is to download precompiled binaries from github repository releases.
+Current version ccan be found here:
+
+https://github.com/phonkee/gopypi/releases/tag/0.5.3
+
+Otherwise you can type
 
     go get github.com/phonkee/gopypi/...
 
